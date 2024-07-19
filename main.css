@@ -1,0 +1,44 @@
+.pk{
+/*    
+    font-size:20px;
+    font-weight:bold; */
+    /* text-decoration: ;
+    text-decoration: underline; */
+    /* text-transform: capitalize;
+    text-shadow:10px 20px 20px red; */
+}
+/* .pk1{
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+
+  overflow-x: scroll;
+  font-family: "Playwrite BE VLG", cursive;
+} */
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+   float: left;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+   float: right;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color:rebeccapurple;
+    float: right;
+ 
+}

@@ -1,0 +1,25 @@
+.position{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    /* position: relative; */
+    /* position: absolute; */
+    
+}
+
+#abc{
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 100px;
+}
+
+.bbb{
+    background-color: indigo;
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    background-color: red;
+    font-size: 30px;
+}
